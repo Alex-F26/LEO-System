@@ -27,4 +27,4 @@ When choosing a file to scan:
 - .csv file containing usernames and password
 - Systemlog.txt will be generated and updated every time the simulation is ran
 - new & updated .csv and .txt files will be generated depending on which assessment is chosen
-- JUnit tests are provided for further class tests
+- JUnit tests and JavaDoc files are provided detailing class functionalities
